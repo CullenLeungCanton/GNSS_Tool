@@ -1,6 +1,15 @@
-# tool
+# GNSS_Tool
+
+一个用于广播星历分析的网页程序
+
+功能：
+
+1. 广播星历数据提取
+2. 卫星位置分析
+3. 星历数据导出
 
 ## Project setup
+
 ```
 npm install
 ```
@@ -20,5 +29,3 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
